@@ -34,18 +34,23 @@ A simple Snake game built using Python and Pygame. The player controls a snake t
    
 The game window will open, and you can start playing.
 
-##Controls
-	•Use the arrow keys on your keyboard to control the snake:
-	•Up Arrow: Move up
-	•Down Arrow: Move down
-	•Left Arrow: Move left
-	•Right Arrow: Move right
+The game window will open, and you can start playing.
 
-##Gameplay
-	•Objective: Eat the red fruit to grow the snake.
-	•Avoid colliding with walls or the snake’s own body.
-	•Every 3 fruits eaten will add a wall segment to the game area.
+## Controls
 
-##Game Over
-	•The game ends if the snake collides with the wall, its own body, or the boundaries of the game window.
-	•After the game ends, the score is displayed, and the game will reset.
+- Use the arrow keys on your keyboard to control the snake:
+  - **Up Arrow**: Move up
+  - **Down Arrow**: Move down
+  - **Left Arrow**: Move left
+  - **Right Arrow**: Move right
+
+## Gameplay
+
+- **Objective**: Eat the red fruit to grow the snake.
+- Avoid colliding with walls or the snake's own body.
+- Every 3 fruits eaten will add a wall segment to the game area.
+
+## Game Over
+
+- The game ends if the snake collides with the wall, its own body, or the boundaries of the game window.
+- After the game ends, the score is displayed, and the game will reset.
