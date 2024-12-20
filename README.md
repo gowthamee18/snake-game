@@ -14,9 +14,7 @@ Features
 
 Installation
 	1.	Make sure you have Python installed on your system (version 3.6 or higher).
-	2.	Install Pygame by running the following command:
-
-'pip install pygame'
+	2.	Use the `pip install pygame` command to install the necessary library.
 
 
 
