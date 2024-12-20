@@ -18,3 +18,44 @@ A simple Snake game built using Python and Pygame. The player controls a snake t
 
    ```bash
    pip install pygame
+
+Running the Game
+	1.	Clone this repository to your local machine:
+
+git clone https://github.com/gowthamee18/snake-game.git
+cd snake-game
+
+
+	2.	Run the game by executing the following command:
+
+python main.py
+
+The game window will open, and you can start playing.
+
+Controls
+	•	Use the arrow keys on your keyboard to control the snake:
+	•	Up Arrow: Move up
+	•	Down Arrow: Move down
+	•	Left Arrow: Move left
+	•	Right Arrow: Move right
+
+Gameplay
+	•	Objective: Eat the red fruit to grow the snake.
+	•	Avoid colliding with walls or the snake’s own body.
+	•	Every 3 fruits eaten will add a wall segment to the game area.
+
+Game Over
+	•	The game ends if the snake collides with the wall, its own body, or the boundaries of the game window.
+	•	After the game ends, the score is displayed, and the game will reset.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Changes Made:
+- I used **headings** (`##`) to separate the sections for clarity.
+- Bullet points (`-`) are used for features, controls, and installation steps.
+- Added proper **code block syntax** for commands and code snippets with backticks (`` ` ``).
+- Indented the code under `Running the Game` and `Installation` sections.
+
+Let me know if you need more changes or additions!
