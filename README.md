@@ -1,6 +1,4 @@
-# snake-game
-
-For your Snake Game project, the README file should provide clear information about the game, how to install and run it, and any additional features or instructions. Here’s a template for your README:
+#snake-game
 
 Snake Game
 
@@ -16,18 +14,23 @@ Features
 
 Installation
 	1.	Make sure you have Python installed on your system (version 3.6 or higher).
-	2.	Install Pygame by running the following command: pip install pygame
+	2.	Install Pygame by running the following command:
+
+'pip install pygame'
 
 
 
 Running the Game
-
 	1.	Clone this repository to your local machine:
+
 git clone https://github.com/gowthamee18/snake-game.git
+
 cd snake-game
 
-	2.	Run the game by executing the following command: 
- python main.py
+
+	2.	Run the game by executing the following command:
+
+python main.py
 
 The game window will open, and you can start playing.
 
@@ -47,4 +50,8 @@ Game Over
 	•	The game ends if the snake collides with the wall, its own body, or the boundaries of the game window.
 	•	After the game ends, the score is displayed, and the game will reset.
 
+License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feel free to adjust or add more sections based on your specific needs. Let me know if you’d like further changes!
