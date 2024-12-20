@@ -27,10 +27,11 @@ A simple Snake game built using Python and Pygame. The player controls a snake t
    git clone https://github.com/gowthamee18/snake-game.git
    cd snake-game
 
-2.	Run the game by executing the following command:
+2. Run the game by executing the following command:
 
-''python main.py''
-
+   ```bash
+   python main.py
+   
 The game window will open, and you can start playing.
 
 ##Controls
