@@ -12,7 +12,8 @@ Features
 	•	Score Display: The score is displayed on the screen, and it increases when the snake eats fruit.
 	•	Game Restart: After a game over, the game resets and you can continue playing.
 
-Installation
+
+_Installation_: 
 	1.	Make sure you have Python installed on your system (version 3.6 or higher).
 	2.	Use the `pip install pygame` command to install the necessary library.
 
