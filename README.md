@@ -23,9 +23,9 @@ Installation
 Running the Game
 	1.	Clone this repository to your local machine:
 git clone https://github.com/gowthamee18/snake-game.git
-
 cd snake-game
-	2.	Run the game by executing the following command: python main.py
+	2.	Run the game by executing the following command: 
+ python main.py
 
 The game window will open, and you can start playing.
 
