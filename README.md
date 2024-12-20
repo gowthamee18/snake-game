@@ -38,7 +38,7 @@ The game window will open, and you can start playing.
 
 ## Controls
 
-- Use the arrow keys on your keyboard to control the snake:
+Use the arrow keys on your keyboard to control the snake:
   - **Up Arrow**: Move up
   - **Down Arrow**: Move down
   - **Left Arrow**: Move left
